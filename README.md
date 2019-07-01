@@ -1,1 +1,1 @@
-# coding-blocks-c++
+In this section, I am uploading the solution of some of the solutions of coding blocks c++ batch, you can find the whole question in the file itself in the form of "COMMENTS" at the beginning of every file.
